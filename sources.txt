@@ -1,0 +1,15 @@
+src/controller/Coordinator.java
+src/controller/Main.java
+src/controller/Relations.java
+src/model/connection/ConnectionDB.java
+src/model/connection/ConnectionManager.java
+src/model/dao/ModelDAO.java
+src/model/dao/PersonDAO.java
+src/model/dao/PetDAO.java
+src/model/dto/AnimalDTO.java
+src/model/dto/PersonDTO.java
+src/model/dto/PetDTO.java
+src/model/Process.java
+src/views/WindowMain.java
+src/views/WindowPerson.java
+src/views/WindowPet.java
